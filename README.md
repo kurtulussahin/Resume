@@ -38,7 +38,7 @@
   [github.com/kurtulussahin](https://www.github.com/kurtulussahin "Github")
 * Etmen Tabanlı Modelleme
 
-  [modelingcommons.org/browse/one_model/5355](https://www.modelingcommons.org/browse/one_model/5355 "Modelling Commons")
+  [modelingcommons.org/browse/one_model/5355](http://www.modelingcommons.org/browse/one_model/5355 "Modelling Commons")
 * Sql
 
   [hackerrank.com/kurtulussahin](https://www.hackerrank.com/kurtulussahin "Hackerrank")
