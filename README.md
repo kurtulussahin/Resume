@@ -5,7 +5,10 @@
 
 #### DENEYİM --------------------- 	
 
-##### Ödeme Sistemleri Entegrasyon Uzmanı (iyzico, Haz 2015 – Şu anda . 3 Yıl)
+##### Kartlı Ödemeler İş Analisti (Ibitech, Eyl 2018 – Şu anda)
+* Kartlı Ödemeler - EMV
+
+##### Ödeme Sistemleri Entegrasyon Uzmanı (iyzico, Haz 2015 – Eyl 2018 . 3 Yıl)
 * iyzico entegrasyonu için müşterilere teknik destek
 * Açık kaynaklı ve hazır eticaret altyapıları için entegrasyon kurulum rehberlerinin hazırlanması
 * Açık kaynaklı eticaret modülleri analizi
@@ -49,5 +52,4 @@
 #### CAN SIKINTISI  ---------------------	
 * Yazılar		    : [medium.com/@kurtulussahin](https://www.medium.com/@kurtulussahin "Medium")
 * Creative Mix	: [kurtulussahin.tumblr.com](http://www.kurtulussahin.tumblr.com "Tumblr")
-* Creative Mix	: [society6.com/bosphorus](https://www.society6.com/bosphorus "Society6")
 * Piksel Boncuk	: [instagram.com/piksel_butik](https://www.instagram.com/piksel_butik "Tumblr")
