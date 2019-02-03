@@ -6,27 +6,23 @@
 #### DENEYİM --------------------- 	
 
 ##### Kartlı Ödemeler İş Analisti (Ibitech, Eyl 2018 – Şu anda)
-* Kartlı Ödemeler - EMV
+* Kartlı Ödemeler - EMV projeleri analizi
 
 ##### Ödeme Sistemleri Entegrasyon Uzmanı (iyzico, Haz 2015 – Eyl 2018 . 3 Yıl)
-* iyzico entegrasyonu için müşterilere teknik destek
-* Açık kaynaklı ve hazır eticaret altyapıları için entegrasyon kurulum rehberlerinin hazırlanması
-* Açık kaynaklı eticaret modülleri analizi
+
 * Api dökümantasyonu hazırlanması
+* Açık kaynaklı eticaret modülleri analizi
 * Api sorgusu için hazırlanan kod kütüphanelerine katkı
 * Yeni geliştirilecek ürün ve özellikler için analiz
 * Yeni geliştirilen ürün ve özelliklerin testi
 
 ##### Hava Tahmin ve Analiz Uzmanı (Meteoroloji İstanbul Bölge Müdürlüğü, Eyl 2007 – Haz 2015 . 7 Yıl 10 Ay)
 
-* Marmara Bölgesi için hava olaylarının tahmini, yöneticiler ve mgm.gov.tr için hava raporlarının hazırlanması.
+* Marmara Bölgesi için hava olaylarının tahmini, yöneticiler ve mgm.gov.tr için hava raporlarının hazırlanması
 
 ##### Staj – IT Analist (Meteoroloji İstanbul Bölge Müdürlüğü, Tem 2014 – Eki 2014 . 4 Ay)
 
 * Otomatik meteoroloji gözlem istasyonlarından alınan verilerin, hava tahmin uzmanları tarafından hızlı ve verimli şekilde yorumlanabilmesi için online raporlama uygulamasının analiz, tasarım ve geliştirilmesi.
-
-##### Staj - IT (Üniversite Plus, Tem 2013 – Ağu 2013 . 2 Ay) 
-<br />
 
 #### EĞİTİM     ---------------------	
 
@@ -45,9 +41,6 @@
 * Sql
 
   [hackerrank.com/kurtulussahin](https://www.hackerrank.com/kurtulussahin "Hackerrank")
-* Api Dökümantasyonu
-
-  [github.com/kurtulussahin/iyzipay-apidoc](https://www.github.com/kurtulussahin/iyzipay-apidoc "Github")
 
 #### CAN SIKINTISI  ---------------------	
 * Yazılar		    : [medium.com/@kurtulussahin](https://www.medium.com/@kurtulussahin "Medium")
