@@ -41,6 +41,9 @@
 * Sql
 
   [hackerrank.com/kurtulussahin](https://www.hackerrank.com/kurtulussahin "Hackerrank")
+  
+* Veri Bilimi
+  [github.com/kurtulussahin/Datacamp-Projects](https://github.com/kurtulussahin/Datacamp-Projects "Datacamp Projects)
 
 #### CAN SIKINTISI  ---------------------	
 * Yazılar		    : [medium.com/@kurtulussahin](https://www.medium.com/@kurtulussahin "Medium")
