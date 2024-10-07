@@ -6,6 +6,7 @@
 
 ##### Kartlı Ödemeler İş Analisti (Ibitech, Eyl 2018 – Şu anda)
 
+![image info](./pictures/image.png)
 ##### Ödeme Sistemleri Entegrasyon Uzmanı (iyzico, Haz 2015 – Eyl 2018 . 3 Yıl)
 
 * Api dökümantasyonu hazırlanması
