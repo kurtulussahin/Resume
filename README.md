@@ -4,13 +4,17 @@
 
 #### EXPERIENCE
 
-  ##### - Card Payment Systems Business Analyst (QNB Finansbank, 2019 – 2024 - 5 Years)
+  ##### - Card Payment Systems Business Analyst 
+  (QNB Finansbank, 2019 – 2024 - 5 Years)
 
-  ##### - Product Manager (Farmazon, 2018 – 2019 - 1 Year)
+  ##### - Product Manager 
+  (Farmazon, 2018 – 2019 - 1 Year)
 
-  ##### - Payment System Integration Engineer - iyzico (2015 – 2018 - 3 Years)
+  ##### - Payment System Integration Engineer 
+  (iyzico, 2015 – 2018 - 3 Years)
 
-  ##### - Wheather Forcasting Analiyst - State Meteorology Service (2007 – 2015 - 8 Years)
+  ##### - Wheather Forcasting Analiyst 
+  (State Meteorology Service, 2007 – 2015 - 8 Years)
 
 #### EDUCATION	
 
