@@ -2,7 +2,7 @@
 ###### kurtulussahin@gmail.com
 <br />
 
-#### Experince
+#### EXPERIENCE
 
   ##### - Card Payment Systems Business Analyst (QNB Finansbank, 2019 – 2024 - 5 Years)
 
