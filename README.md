@@ -22,5 +22,7 @@
 
 #### EDUCATION	
 
+  ### University
+  
   ##### - Management Information Systems - 
   Boğaziçi University, 2006 –2014
