@@ -1,6 +1,7 @@
 ## Kurtuluş Şahin
 ###### kurtulussahin@gmail.com
 <br />
+
 #### Experince
 
 ##### Card Payment Systems Business Analyst (QNB Finansbank, 2019 – 2024 - 5 Years)
