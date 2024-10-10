@@ -2,6 +2,10 @@
 ###### 📧 kurtulussahin@gmail.com
 <br />
 
+### Future Software Developer
+   📚 Learning Java ☕
+<br>
+
    
 # Experience
   
