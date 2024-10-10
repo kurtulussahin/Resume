@@ -4,12 +4,15 @@
 
 ### EXPERIENCE
 
+  ##### - Future Software Developer
+  📚 Learning Java ☕
+  
   ##### - Card Payment Systems Business Analyst 
-  🏦 QNB Finansbank, 2019 – 2024 - 5 Years
+  🏦 QNB Finansbank, 2019 – now - 5 Years
 
 
   ##### - Product Manager 
-  🏪 Farmazon, 2018 – 2019 - 1 Year
+  🛒 Farmazon, 2018 – 2019 - 1 Year
 
 
   ##### - Payment System Integration Engineer 
